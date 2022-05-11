@@ -1,0 +1,41 @@
+.container{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 20px;
+    background-color: burlywood;
+}
+#component{
+    position: absolute;
+    left: 700px;
+}
+#functional{
+    position: relative;
+    top: 150px;
+    left: 40px;
+}
+p{
+    color: aqua;
+    text-align: center;
+}
+.but1,
+.but2{
+    background-color: orange;
+    height: 40px;
+    width: 350px;
+    margin-left: 150px;
+    border-radius: 4px;
+}
+.but2{
+    position:absolute;
+    top: 80px;
+    left: 500px;
+}
+body{
+    background: linear-gradient(lightgreen,lightblue,lightyellow);
+    height: 100vh;
+    
+}
+h1{
+    text-align: center;
+    
+}
